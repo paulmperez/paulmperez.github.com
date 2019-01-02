@@ -1,6 +1,8 @@
 ---
 title: "Paul Perez's website"
-output: html_document
+output:
+  html_document:
+    theme: spacelab
 ---
 
 ## About
