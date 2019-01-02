@@ -3,7 +3,13 @@ title: "Paul Perez's website"
 output:
   html_document:
     theme: spacelab
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    
 ---
+
+![](img/Paul.png){width=100px}
 
 ## About
 
